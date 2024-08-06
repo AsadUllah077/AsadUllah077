@@ -42,7 +42,7 @@ A tool to display all possible styles for each font type.
 ## Contact Me
 
 - [GitHub](https://github.com/AsadUllah077)
-- [LinkedIn](https://www.linkedin.com/in/Asad Ullah/)
+- [LinkedIn](https://www.linkedin.com/in/asad-ullah-97521b260/)
 - [Email](mailto:asadullah03189051077@gmail.com)
 
 ---
