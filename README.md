@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Asad Ullah] 👋
 
-![GitHub Banner](https://via.placeholder.com/1000x300.png?text=Your+Banner+Image+Here)
+
 
 ## About Me
 
@@ -21,12 +21,12 @@ I am a Full-Stack Web Developer with a passion for creating dynamic and responsi
 ### Hieroglyphics Translator
 A JavaScript-based web application to generate and translate sentences into hieroglyphics with an improved UI design.
 
-![Hieroglyphics Translator](https://via.placeholder.com/400x200.png?text=Project+Screenshot)
+
 
 ### Discord Fonts Generator
 A tool to display all possible styles for each font type.
 
-![Discord Fonts Generator](https://via.placeholder.com/400x200.png?text=Project+Screenshot)
+
 
 ## Skills
 
@@ -41,11 +41,11 @@ A tool to display all possible styles for each font type.
 
 ## Contact Me
 
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-- [Email](mailto:your-email@example.com)
+- [GitHub](https://github.com/AsadUllah077)
+- [LinkedIn](https://www.linkedin.com/in/Asad Ullah/)
+- [Email](mailto:asadullah03189051077@gmail.com)
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-github-username)
+
 
