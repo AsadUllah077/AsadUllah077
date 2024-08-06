@@ -25,8 +25,20 @@ A JavaScript-based web application to generate and translate sentences into hier
 
 ### Discord Fonts Generator
 A tool to display all possible styles for each font type.
+### text-to-speech-JS
+A text-to-speech JavaScript project.
 
+### php-ajax-CRUD
+A PHP and Ajax-based CRUD application.
 
+### FYP_project
+A JavaScript project developed as part of a Final Year Project.
+
+### Budget_Calculator (Private)
+A PHP-based budget calculator application.
+
+### tourism-trip
+A web application related to tourism and trip planning.
 
 ## Skills
 
